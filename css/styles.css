@@ -2,6 +2,7 @@
     position: absolute;
     right: 30%;
     display: block;
+    padding-bottom: 10px;
 }
 
 
@@ -9,6 +10,7 @@
     position: absolute;
     left: 35%;
     display: block;
+    padding-bottom: 10px;
 }
 
 .mount {
